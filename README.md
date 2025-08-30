@@ -16,7 +16,7 @@ Acompanhe meu trabalho através do Linkedin: [João Vitor](https://www.linkedin.
       src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
     />
   </a>
-     <a [href="https://www.linkedin.com/in/seuusuario" target="_blank"](https://www.linkedin.com/in/jo%C3%A3o-vitor-martins-de-oliveira-628a94213/)>
+     <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-martins-de-oliveira-628a94213/">
     <img 
       alt="LinkedIn" 
       title="Conecte-se comigo no LinkedIn" 
