@@ -1,11 +1,11 @@
 
-#  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FF00&lines=Olá,+eu+sou+João+Vitor;Desenvolvedor+Java+FullStack;Sempre+aprendendo+e+evoluindo)](https://git.io/typing-svg)
+#  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&duration=3000&color=00FF00&lines=Olá,+eu+sou+João+Vitor;Desenvolvedor+Java+FullStack;Sempre+aprendendo+e+evoluindo)](https://git.io/typing-svg)
 
 
 **`Desenvolvedor FullStack`**
 
-Graduando em Ciência da Computação pela Universidade Cidade de São Paulo - [UNICID](https://www.unicid.edu.br/)
-venho trilhando um caminho cheio de aprendizagens constantes. Com foco no Desenvolvimento utilizando: Java | MySQL | HTML | CSS | Bootstrap
+Graduando em Ciência da Computação pela Universidade Cidade de São Paulo - [UNICID](https://www.unicid.edu.br/).
+Venho trilhando um caminho cheio de aprendizagens constantes. Com foco no Desenvolvimento utilizando: Java | SpringBoot | MySQL | HTML | CSS | Bootstrap
 
 Acompanhe meu trabalho através do Linkedin: [João Vitor](https://www.linkedin.com/in/jo%C3%A3o-vitor-martins-de-oliveira-628a94213/).
 <p align="left">
@@ -35,6 +35,14 @@ Acompanhe meu trabalho através do Linkedin: [João Vitor](https://www.linkedin.
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+/>
+<img 
+    align="left" 
+    alt="SpringBoot"
+    title="SpringBoot" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
 />
 <img 
     align="left" 
