@@ -30,8 +30,8 @@ Acompanhe meu trabalho através do Linkedin: [João Vitor](https://www.linkedin.
 
 <img 
     align="left" 
-    alt="java"
-    title="java" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
