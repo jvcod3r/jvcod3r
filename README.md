@@ -7,6 +7,22 @@ Graduando em Ciência da Computação pela Universidade Cidade de São Paulo - [
 venho trilhando um caminho cheio de aprendizagens constantes. Com foco no Desenvolvimento utilizando: Java | MySQL | HTML | CSS | Bootstrap
 
 Acompanhe meu trabalho através do Linkedin: [João Vitor](https://www.linkedin.com/in/jo%C3%A3o-vitor-martins-de-oliveira-628a94213/).
+<p align="left">
+  <a href="https://instagram.com/jv_harz" target="_blank">
+    <img 
+      alt="Instagram" 
+      title="Me siga no Instagram" 
+      src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
+    />
+  </a>
+     <a [href="https://www.linkedin.com/in/seuusuario" target="_blank"](https://www.linkedin.com/in/jo%C3%A3o-vitor-martins-de-oliveira-628a94213/)>
+    <img 
+      alt="LinkedIn" 
+      title="Conecte-se comigo no LinkedIn" 
+      src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+</p>
 
 
 ### 🤖 Linguagens e Tecnologias
