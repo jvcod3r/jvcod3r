@@ -1,5 +1,6 @@
 
-# 👨‍💻 João Vitor
+#  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00FF00&lines=Olá,+eu+sou+João+Vitor;Desenvolvedor+Java+Júnior;Sempre+aprendendo+e+evoluindo)](https://git.io/typing-svg)
+
 
 **`Desenvolvedor FullStack`**
 
