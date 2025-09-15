@@ -5,7 +5,7 @@
 **`Desenvolvedor FullStack`**
 
 Graduando em Ciência da Computação pela Universidade Cidade de São Paulo - [UNICID](https://www.unicid.edu.br/).
-Venho trilhando um caminho cheio de aprendizagens constantes. Com foco no Desenvolvimento utilizando: Java | SpringBoot | MySQL | HTML | CSS | Bootstrap
+Venho trilhando um caminho cheio de aprendizagens constantes. Com foco no Desenvolvimento utilizando: Java | SpringBoot | MySQL | HTML | CSS | JS | Bootstrap
 
 Acompanhe meu trabalho através do Linkedin: [João Vitor](https://www.linkedin.com/in/jo%C3%A3o-vitor-martins-de-oliveira-628a94213/).
 <p align="left">
