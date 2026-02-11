@@ -9,7 +9,7 @@
 
 ## 👋 Sobre mim
 
-Sou **Desenvolvedor FullStack**, graduando em Ciência da Computação pela [UNICID](https://www.unicid.edu.br/) - (4° semestre).
+Sou **Desenvolvedor FullStack**, graduando em Ciência da Computação pela [UNICID](https://www.unicid.edu.br/) - (5° semestre).
 Atuo com backend e frontend, com foco nas tecnologias **Java**, **SpringBoot**, **MySQL**, **HTML**, **CSS**, **JavaScript** e **Bootstrap**.  
 Apaixonado por aprender, evoluir e construir soluções impactantes.
 
