@@ -21,7 +21,7 @@ Apaixonado por aprender, evoluir e construir soluções impactantes.
   <a href="https://github.com/jvcod3r" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-martins-de-oliveira-628a94213/" target="_blank">
+  <a href="[https://www.linkedin.com/in/jo%C3%A3o-vitor-martins-de-oliveira-628a94213/](https://www.linkedin.com/in/jo%C3%A3o-vitor-martins/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/jv.harz" target="_blank">
