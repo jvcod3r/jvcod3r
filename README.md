@@ -42,13 +42,14 @@ Apaixonado por aprender, evoluir e construir soluções impactantes.
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="SpringBoot" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
+  
  
 </p>
 
