@@ -7,29 +7,33 @@
 
 ---
 
-## 👋 Sobre mim
+<p align="center">
+  <img src="devgif.gif" width="250" align="right" />
 
-Sou **Desenvolvedor FullStack**, graduando em Ciência da Computação pela [UNICID](https://www.unicid.edu.br/) - (5° semestre).
+ Sou **Desenvolvedor FullStack**, graduando em Ciência da Computação pela [UNICID](https://www.unicid.edu.br/) - (5° semestre).
 Atuo com backend e frontend, com foco nas tecnologias **Java**, **SpringBoot**, **MySQL**, **HTML**, **CSS**, **JavaScript** e **Bootstrap**.  
 Apaixonado por aprender, evoluir e construir soluções impactantes.
-
----
-![Demo do projeto](https://link-do-seu-gif.gif)
+</p>
 
 
 ## 🔗 Contatos & Redes
 
 <p align="center">
-  <a href="https://github.com/jvcod3r" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+  <a href="mailto:SEUEMAIL@email.com?subject=Contato%20via%20GitHub">
+    <img src="https://img.shields.io/badge/Email-Enviar%20Mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-martins/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://instagram.com/jv.harz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
 </p>
+
 
 ---
 
@@ -49,18 +53,27 @@ Apaixonado por aprender, evoluir e construir soluções impactantes.
 </p>
 
 ---
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jvcod3r&theme=tokyo-night&hide_border=true" />
 
 
 ## 📊 Estatísticas & Atividades
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=jvcod3r&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
-    alt="GitHub Stats" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=jvcod3r&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvcod3r&theme=radical&layout=compact&langs_count=9" 
-    alt="Top Linguagens" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jvcod3r&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
   />
 </p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=jvcod3r&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
+
 
