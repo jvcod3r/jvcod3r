@@ -10,7 +10,7 @@
 <p align="center">
   <img src="devgif.gif" width="250" align="right" />
 
- Sou **Desenvolvedor FullStack**, graduando em Ciência da Computação pela [UNICID](https://www.unicid.edu.br/) - (5° semestre).
+  **Desenvolvedor** em formação, graduando em Ciência da Computação pela [UNICID](https://www.unicid.edu.br/) - (5° semestre).
 Atuo com backend e frontend, com foco nas tecnologias **Java**, **SpringBoot**, **MySQL**, **HTML**, **CSS**, **JavaScript** e **Bootstrap**.  
 Apaixonado por aprender, evoluir e construir soluções impactantes.
 </p>
