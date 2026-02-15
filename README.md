@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FF00&lines=Olá,+eu+sou+João+Vitor;Desenvolvedor+Java+FullStack;Sempre+aprendendo+e+evoluindo" 
+    src="https://readme-typing-svg.herokuapp.com?size=25&duration=6000&color=204dd4&lines=Olá,+eu+sou+João+Vitor;Desenvolvedor+Java+FullStack;Sempre+aprendendo+e+evoluindo" 
     alt="Typing SVG"
   />
 </p>
@@ -14,6 +14,8 @@ Atuo com backend e frontend, com foco nas tecnologias **Java**, **SpringBoot**, 
 Apaixonado por aprender, evoluir e construir soluções impactantes.
 
 ---
+![Demo do projeto](https://link-do-seu-gif.gif)
+
 
 ## 🔗 Contatos & Redes
 
@@ -34,13 +36,16 @@ Apaixonado por aprender, evoluir e construir soluções impactantes.
 <h2 align="center">🧠 Stack</h2>
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="SpringBoot" width="60" height="60" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="SpringBoot" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
+ 
 </p>
 
 ---
@@ -59,10 +64,3 @@ Apaixonado por aprender, evoluir e construir soluções impactantes.
   />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jvcod3r/jvcod3r/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jvcod3r/jvcod3r/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jvcod3r/jvcod3r/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
