@@ -1,80 +1,66 @@
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?size=25&duration=6000&color=204dd4&lines=Olá,+eu+sou+João+Vitor;Desenvolvedor+Java+FullStack;Sempre+aprendendo+e+evoluindo" 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=5000&pause=1000&color=4D9DE0&center=true&vCenter=true&lines=João+Vitor+%7C+FullStack+Dev;Java+%2B+Spring+Boot+%2B+Angular;Codando+coisas+que+funcionam" 
     alt="Typing SVG"
   />
 </p>
 
----
+<br/>
 
-<p align="center">
-  <img src="devgif.gif" width="250" align="right" />
+<img src="devgif.gif" width="200" align="right" />
 
-  **Desenvolvedor** em formação, graduando em Ciência da Computação pela [UNICID](https://www.unicid.edu.br/) - (5° semestre).
-Atuo com backend e frontend, com foco nas tecnologias **Java**, **SpringBoot**, **MySQL**, **HTML**, **CSS**, **JavaScript** e **Bootstrap**.  
-Apaixonado por aprender, evoluir e construir soluções impactantes.
-</p>
+Graduando em **Ciência da Computação** pela [UNICID](https://www.unicid.edu.br/) — 5° semestre.
 
+Atuo no backend e frontend com foco em **Java + Spring Boot** para APIs REST robustas, e **Angular + TypeScript** no front. Já entregui projetos reais e sigo evoluindo rápido.
 
-## 🔗 Contatos & Redes
+> Apaixonado por código limpo, arquitetura bem pensada e soluções que realmente funcionam.
 
-<p align="center">
-
-  <a href="mailto:SEUEMAIL@email.com?subject=Contato%20via%20GitHub">
-    <img src="https://img.shields.io/badge/Email-Enviar%20Mensagem-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-martins/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://instagram.com/jv.harz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-</p>
-
+<br clear="right"/>
 
 ---
 
-<h2 align="center">🧠 Stack</h2>
+## 🔗 Contato
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="SpringBoot" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="40" style="background-color: #1e1e1e; padding: 12px; border-radius: 12px; margin: 8px;"/>
-  
- 
+<p>
+  <a href="mailto:joaovitor.codes@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-joaovitor.codes-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/joão-vitor-martins/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-João%20Vitor-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  &nbsp;
+  <a href="https://github.com/jvcod3r" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-jvcod3r-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jvcod3r&theme=tokyo-night&hide_border=true" />
 
 
-## 📊 Estatísticas & Atividades
+## 🧠 Stack
 
 <p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=java,spring,mysql,postman,js,ts,angular,html,css,bootstrap,git&theme=dark" /></a>
+</p>
+
+---
+
+## 📊 Stats
+
+<p>
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=jvcod3r&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=jvcod3r&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    height="165"
   />
+  &nbsp;
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jvcod3r&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jvcod3r&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+    height="165"
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=jvcod3r&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
+<img src="https://streak-stats.demolab.com?user=jvcod3r&theme=tokyonight&hide_border=true" height="165" />
 
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jvcod3r&theme=tokyo-night&hide_border=true&area=true" />
