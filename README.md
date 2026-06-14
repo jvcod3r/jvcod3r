@@ -9,7 +9,7 @@
 
 <img src="devgif.gif" width="200" align="right" />
 
-Graduando em **Ciência da Computação** pela [UNICID](https://www.unicid.edu.br/) — 5° semestre.
+Graduando em **Ciência da Computação** pela [UNICID](https://www.unicid.edu.br/) — 6° semestre.
 
 Atuo no backend e frontend com foco em **Java + Spring Boot** para APIs REST robustas, e **Angular + TypeScript** no front. Já entregui projetos reais e sigo evoluindo rápido.
 
